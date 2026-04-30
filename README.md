@@ -2,7 +2,7 @@
 
 A modern, high-performance Kanban board application built with Next.js 15, Drizzle ORM, and Tailwind CSS. Manage your tasks efficiently with a sleek, interactive interface featuring drag-and-drop functionality, real-time updates, and robust authentication.
 
-![Kanban System Demo](https://raw.githubusercontent.com/lucide-react/lucide/main/icons/layout-dashboard.svg) *Placeholder for actual screenshot*
+![Kanban System Demo](public/screenshot.png)
 
 ## ✨ Features
 
